@@ -1,2 +1,2 @@
-# EmbeddedSystem
-simulations circuits via many websites of simulation like tinkercad 
+# feu-circulation
+simple code to manipule Traffic light 
